@@ -6,7 +6,7 @@ st.set_page_config(layout="wide")
 col1, col2 = st.columns(2)
 
 with col1:
-    st.image("Images/photo.jpg")
+    st.image("images/photo.jpg")
 
 with col2:
     st.title("Francisco Corte-Real")
@@ -47,7 +47,7 @@ with col3:
     for index, row in df[:10].iterrows():
         st.header(row["title"])
         st.write(row["description"])
-        st.image("Images/" + row["image"])
+        st.image("images/" + row["image"])
         st.write(f"[Link for app]({row['url']})")
         st.write(f"[Github repository]({row['github']})")
 
@@ -55,6 +55,6 @@ with col4:
     for index, row in df[10:].iterrows():
         st.header(row["title"])
         st.write(row["description"])
-        st.image("Images/" + row["image"])
+        st.image("images/" + row["image"])
         st.write(f"[Link for app]({row['url']})")
         st.write(f"[Github repository]({row['github']})")
