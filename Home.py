@@ -11,23 +11,23 @@ with col1:
 with col2:
     st.title("Francisco Corte-Real")
     content = """
-    Desde 2000 que estou envolvido em produção multímédia e informática
-     a diversos níveis, começando como técnico de som em eventos,
-      até à programação em várias línguagens, passando pela fotografia,
-       vídeo, web design, etc...
-          Por razões pessoais fui mantendo
-         durante os últimos anos a profissão de vigilante à medida que fui
-          realizando trabalhos como freelancer. Após algumas formações na área
-           de multimédia, em 2006/2007 ingressei no curso de Novas Tecnologias
-            da Comunicação na UA, tendo, infelizmente, concluído apenas pouco
-             mais de metade do curso. 
-             A nível de software, para além de conhecimentos
-              em toda a gama Adobe, tenho também conhecimentos em alguns dos software’s
-               gratuitos existentes, assim como software’s de CAD, 2D e 3D, e também
-                algumas linguagens de programação. Neste momento procuro trabalho full-time,
-                 tendo me dedicado nos últimos tempos a estudar a linguagem Python
-                  e a sua integração em bases dados SQL e API’s, conhecer as suas principais
-                   frameworks e tools assim como a integração dos mesmos.
+    Since 2000, I have been involved in multimedia and IT 
+    production at different levels, starting as a sound 
+    technician at events, to programming in several languages, 
+    including photography, video, web design, etc... 
+    For personal reasons I have maintained over the last 
+    few years in the security profession as I carried out 
+    freelance work. After some training in the multimedia 
+    area, in 2006/2007 I joined the New Communication Technologies 
+    course at UA, having, unfortunately, only completed just over 
+    half of the course. In terms of software, in addition to 
+    knowledge of the entire Adobe range, I also have knowledge 
+    of some of the free software available, as well as CAD, 
+    2D and 3D software, and also some programming languages. 
+    At the moment I am looking for a full-time job, having recently 
+    dedicated myself to studying the Python language and its 
+    integration into SQL databases and APIs, getting to know 
+    its main frameworks and tools as well as their integration.
     
     """
     st.info(content)
