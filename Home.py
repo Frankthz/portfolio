@@ -35,7 +35,7 @@ with col2:
 
 info1 = ("Below you can find some of the apps I have built in Python trought some tutorials I have made. "
          "Some of the apps or code doesn't have web app, but you can check the code on 'GitHub'. Feel free to contact me.")
-info2 = ("Unfourtanlly some of the apps haven't been added yet.")
+info2 = ("Unfourtanlly some of the apps can only be run downloading them from the repository.")
 
 st.info(info1)
 st.info(info2)
