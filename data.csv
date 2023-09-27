@@ -7,8 +7,6 @@ Weather API;A REST API built with Python and Flask to serve historical weather d
 Open Domain Chatbot;A chatbot built that can discuss anything with a human and is built using the Facebook API.;https://github.com/Frankthz/chatbotapp.git;10.png;https://github.com/Frankthz/chatbotapp.git
 Webcam Motion Detector;A program that monitors the computer webcam and sends an email when a new object enters the view.;https://github.com/Frankthz/webcamdetector;11.png;https://github.com/Frankthz/webcamdetector
 Job Application;A program for applying to a new job with a email sender to the user.;https://github.com/Frankthz/djangoform;14.png;https://github.com/Frankthz/djangoform
-Visualizing Data;A program that visualizes the data collected in the previous monitoring program. ;https://pythonhow.com;15.png;
 Visualizing Weather Forecast;A data web app that visualizes the weather forecast for the next five days of any city.;https://frankthz-weatherforecast-main-cr80rh.streamlit.app/;16.png;https://github.com/Frankthz/weatherforecast
 Student Management System;A desktop PyQt6 GUI app for managing university student data with an SQL database backend.;https://github.com/Frankthz/studentwinapp.git;17.png;https://github.com/Frankthz/studentwinapp.git
-School Management System;A desktop PyQt6 GUI app for managing complex university data with an SQL database backend.;https://pythonhow.com;18.png;
 Restaurant Menu Web App;A Django web app to let customers see a restaurant menu and meal availability.;https://github.com/Frankthz/restaurantmenu;19.png;https://github.com/Frankthz/restaurantmenu
