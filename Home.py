@@ -15,8 +15,7 @@ with col2:
     production at different levels, starting as a sound 
     technician at events, to programming in several languages, 
     including photography, video, web design, etc... 
-    For personal reasons I have maintained over the last 
-    few years in the security profession as I carried out 
+    In the last few years I kept a security guard carrer as I carried out 
     freelance work. After some training in the multimedia 
     area, in 2006/2007 I joined the New Communication Technologies 
     course at UA, having, unfortunately, only completed just over 
