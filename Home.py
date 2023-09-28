@@ -16,7 +16,7 @@ with col2:
     technician at events, to programming in several languages, 
     including photography, video, web design, etc... 
     In the last few years I kept a security guard career, at the same time I worked off and on
-    as a freelance worker. After some training in the multimedia 
+    as a freelance IT worker. After some training in the multimedia 
     area, in 2006/2007 I joined the New Communication Technologies 
     course at UA, having, unfortunately, only completed just over 
     half of the course. In terms of software, in addition to 
